@@ -1,0 +1,52 @@
+<svg viewBox="0 0 2000 1400" xmlns="http://www.w3.org/2000/svg">
+  <mask id="b" x="0" y="0" width="2000" height="1400">
+    <path fill="url(#a)" d="M0 0h2000v1400H0z"/>
+  </mask>
+  <path fill="#0d153d" d="M0 0h2000v1400H0z"/>
+  <g style="transform-origin:center center" stroke="#4c4e7282" stroke-width="1.2" mask="url(#b)">
+    <path fill="none" d="M572.7 0h95.45v95.45H572.7z" stroke-width="1.38"/>
+    <path fill="#4c4e725c" d="M1049.95 0h95.45v95.45h-95.45z" stroke-width="1.38"/>
+    <path fill="none" d="M1240.85 0h95.45v95.45h-95.45zM1813.55 0H1909v95.45h-95.45zM2004.45 0h95.45v95.45h-95.45z" stroke-width="1.38"/>
+    <path fill="#4c4e7212" d="M190.9 95.45h95.45v95.45H190.9z" stroke-width="1.38"/>
+    <path fill="none" d="M859.05 95.45h95.45v95.45h-95.45z" stroke-width="1.38"/>
+    <path fill="#4c4e7274" d="M1240.85 95.45h95.45v95.45h-95.45z" stroke-width="1.38"/>
+    <path fill="none" d="M1527.2 95.45h95.45v95.45h-95.45zM381.8 190.9h95.45v95.45H381.8zM572.7 190.9h95.45v95.45H572.7z" stroke-width="1.38"/>
+    <path fill="#4c4e722d" d="M763.6 190.9h95.45v95.45H763.6z" stroke-width="1.38"/>
+    <path fill="none" d="M1431.75 190.9h95.45v95.45h-95.45zM1718.1 190.9h95.45v95.45h-95.45z" stroke-width="1.38"/>
+    <path fill="#4c4e7201" d="M0 286.35h95.45v95.45H0z" stroke-width="1.38"/>
+    <path fill="#4c4e7243" d="M190.9 286.35h95.45v95.45H190.9z" stroke-width="1.38"/>
+    <path fill="none" d="M1145.4 286.35h95.45v95.45h-95.45zM1336.3 286.35h95.45v95.45h-95.45zM1622.65 286.35h95.45v95.45h-95.45z" stroke-width="1.38"/>
+    <path fill="#4c4e7222" d="M572.7 381.8h95.45v95.45H572.7z" stroke-width="1.38"/>
+    <path fill="none" d="M1049.95 381.8h95.45v95.45h-95.45zM1718.1 381.8h95.45v95.45h-95.45zM2004.45 381.8h95.45v95.45h-95.45zM0 477.25h95.45v95.45H0zM572.7 477.25h95.45v95.45H572.7z" stroke-width="1.38"/>
+    <path fill="#4c4e7244" d="M763.6 477.25h95.45v95.45H763.6z" stroke-width="1.38"/>
+        <path fill="none" d="M1718.1 477.25h95.45v95.45h-95.45zM2004.45 477.25h95.45v95.45h-95.45zM2195.35 477.25h95.45v95.45h-95.45z" stroke-width="1.38"/>
+    <path fill="#4c4e7223" d="M954.5 572.7h95.45v95.45H954.5z" stroke-width="1.38"/>
+    <path fill="none" d="M1909 572.7h95.45v95.45H1909z" stroke-width="1.38"/>
+    <path fill="#4c4e727f" d="M2099.9 572.7h95.45v95.45h-95.45z" stroke-width="1.38"/>
+    <path fill="none" d="M0 668.15h95.45v95.45H0z" stroke-width="1.38"/>
+    <path fill="#4c4e726c" d="M2004.45 668.15h95.45v95.45h-95.45z" stroke-width="1.38"/>
+    <path fill="none" d="M1049.95 763.6h95.45v95.45h-95.45zM1145.4 763.6h95.45v95.45h-95.45zM2099.9 763.6h95.45v95.45h-95.45zM1909 859.05h95.45v95.45H1909zM2004.45 859.05h95.45v95.45h-95.45zM1527.2 954.5h95.45v95.45h-95.45zM1622.65 954.5h95.45v95.45h-95.45zM2004.45 954.5h95.45v95.45h-95.45zM477.25 1049.95h95.45v95.45h-95.45zM859.05 1049.95h95.45v95.45h-95.45zM954.5 1049.95h95.45v95.45H954.5z" stroke-width="1.38"/>
+    <path fill="#4c4e7236" d="M1240.85 1049.95h95.45v95.45h-95.45z" stroke-width="1.38"/>
+    <path fill="#4c4e720b" d="M1527.2 1049.95h95.45v95.45h-95.45z" stroke-width="1.38"/>
+    <path fill="none" d="M1622.65 1049.95h95.45v95.45h-95.45z" stroke-width="1.38"/>
+    <path fill="#4c4e720c" d="M2195.35 1049.95h95.45v95.45h-95.45z" stroke-width="1.38"/>
+    <path fill="none" d="M0 1145.4h95.45v95.45H0z" stroke-width="1.38"/>
+    <path fill="#4c4e7203" d="M1527.2 1145.4h95.45v95.45h-95.45z" stroke-width="1.38"/>
+    <path fill="none" d="M2195.35 1145.4h95.45v95.45h-95.45zM190.9 1240.85h95.45v95.45H190.9z" stroke-width="1.38"/>
+    <path fill="#4c4e724a" d="M668.15 1240.85h95.45v95.45h-95.45z" stroke-width="1.38"/>
+    <path fill="#4c4e7275" d="M954.5 1240.85h95.45v95.45H954.5z" stroke-width="1.38"/>
+
+	    <path fill="none" d="M2004.45 1240.85h95.45v95.45h-95.45zM2099.9 1240.85h95.45v95.45h-95.45zM0 1336.3h95.45v95.45H0zM381.8 1336.3h95.45v95.45H381.8zM763.6 1336.3h95.45v95.45H763.6zM1145.4 1336.3h95.45v95.45h-95.45zM1349.7 1336.3h95.45v95.45h-95.45zM1527.2 1336.3h95.45v95.45h-95.45zM1718.1 1336.3h95.45v95.45h-95.45zM2099.9 1336.3h95.45v95.45h-95.45zM0 1431.75h95.45v95.45H0zM190.9 1431.75h95.45v95.45H190.9zM381.8 1431.75h95.45v95.45H381.8zM572.7 1431.75h95.45v95.45H572.7zM763.6 1431.75h95.45v95.45H763.6zM954.5 1431.75h95.45v95.45H954.5z" stroke-width="1.38"/>
+    <path fill="#4c4e7255" d="M1049.95 1431.75h95.45v95.45h-95.45z" stroke-width="1.38"/>
+    <path fill="#4c4e720d" d="M1240.85 1431.75h95.45v95.45h-95.45z" stroke-width="1.38"/>
+    <path fill="#4c4e7219" d="M1527.2 1431.75h95.45v95.45h-95.45z" stroke-width="1.38"/>
+    <path fill="#4c4e7224" d="M1718.1 1431.75h95.45v95.45h-95.45z" stroke-width="1.38"/>
+    <path fill="#4c4e7239" d="M2099.9 1431.75h95.45v95.45h-95.45z" stroke-width="1.38"/>
+  </g>
+  <defs>
+    <radialGradient id="a">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff"/>
+    </radialGradient>
+  </defs>
+</svg>

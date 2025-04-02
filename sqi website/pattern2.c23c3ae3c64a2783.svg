@@ -1,0 +1,67 @@
+<svg viewBox="0 0 2000 1400" xmlns="http://www.w3.org/2000/svg">
+  <mask id="b" x="0" y="0" width="2000" height="1400">
+    <path fill="url(#a)" d="M0 0h2000v1400H0z"/>
+  </mask>
+  <path fill="#fff" d="M0 0h2000v1400H0z"/>
+  <g style="transform-origin:center center" stroke="#dbdce570" stroke-width="2" mask="url(#b)">
+    <path fill="#dbdce547" d="M0 0h111v111H0z"/>
+    <path fill="none" d="M777 0h111v111H777z"/>
+    <path fill="#dbdce512" d="M999 0h111v111H999z"/>
+    <path fill="none" d="M1110 0h111v111h-111zM1554 0h111v111h-111z"/>
+    <path fill="#dbdce55d" d="M1776 0h111v111h-111z"/>
+    <path fill="none" d="M1887 0h111v111h-111z"/>
+    <path fill="#dbdce55d" d="M111 111h111v111H111z"/>
+    <path fill="none" d="M222 111h111v111H222zM444 111h111v111H444zM555 111h111v111H555zM666 111h111v111H666zM1221 111h111v111h-111zM1443 111h111v111h-111z"/>
+    <path fill="#dbdce537" d="M1554 111h111v111h-111z"/>
+    <path fill="#dbdce501" d="M1776 111h111v111h-111z"/>
+    <path fill="#dbdce52d" d="M0 222h111v111H0z"/>
+    <path fill="none" d="M444 222h111v111H444zM555 222h111v111H555z"/>
+    <path fill="#dbdce521" d="M666 222h111v111H666z"/>
+    <path fill="none" d="M1221 222h111v111h-111zM1554 222h111v111h-111z"/>
+    <path fill="#dbdce54f" d="M1665 222h111v111h-111z"/>
+    <path fill="none" d="M1776 222h111v111h-111zM111 333h111v111H111zM444 333h111v111H444z"/>
+    <path fill="#dbdce552" d="M777 333h111v111H777z"/>
+    <path fill="none" d="M888 333h111v111H888z"/>
+    <path fill="#dbdce53b" d="M1110 333h111v111h-111z"/>
+    <path fill="none" d="M1221 333h111v111h-111z"/>
+    <path fill="#dbdce511" d="M1332 333h111v111h-111z"/>
+    <path fill="none" d="M1554 333h111v111h-111z"/>
+    <path fill="#dbdce521" d="M1665 333h111v111h-111z"/>
+    <path fill="none" d="M999 444h111v111H999zM1110 444h111v111h-111zM1221 444h111v111h-111z"/>
+    <path fill="#dbdce52c" d="M1332 444h111v111h-111z"/>
+    <path fill="none" d="M1665 444h111v111h-111zM0 555h111v111H0zM666 555h111v111H666z"/>
+    <path fill="#dbdce54f" d="M888 555h111v111H888z"/>
+    <path fill="none" d="M1332 555h111v111h-111zM1443 555h111v111h-111zM1776 555h111v111h-111zM1887 555h111v111h-111z"/>
+    <path fill="#dbdce515" d="M111 666h111v111H111z"/>
+    <path fill="#dbdce523" d="M222 666h111v111H222z"/>
+    <path fill="none" d="M555 666h111v111H555zM888 666h111v111H888z"/>
+    <path fill="#dbdce561" d="M999 666h111v111H999z"/>
+    <path fill="none" d="M1110 666h111v111h-111zM1332 666h111v111h-111z"/>
+    <path fill="#dbdce50c" d="M1443 666h111v111h-111z"/>
+    <path fill="none" d="M777 777h111v111H777zM1110 777h111v111h-111zM0 888h111v111H0zM111 888h111v111H111zM333 888h111v111H333zM888 888h111v111H888z"/>
+    <path fill="#dbdce514" d="M999 888h111v111H999z"/>
+    <path fill="none" d="M1221 888h111v111h-111zM1776 888h111v111h-111z"/>
+    <path fill="#dbdce567" d="M0 999h111v111H0z"/>
+    <path fill="none" d="M111 999h111v111H111z"/>
+    <path fill="#dbdce508" d="M222 999h111v111H222z"/>
+    <path fill="none" d="M333 999h111v111H333zM444 999h111v111H444zM666 999h111v111H666zM777 999h111v111H777zM888 999h111v111H888z"/>
+    <path fill="#dbdce52f" d="M999 999h111v111H999z"/>
+    <path fill="#dbdce524" d="M1665 999h111v111h-111z"/>
+    <path fill="none" d="M222 1110h111v111H222z"/>
+    <path fill="#dbdce543" d="M777 1110h111v111H777z"/>
+    <path fill="#dbdce51c" d="M999 1110h111v111H999z"/>
+    <path fill="none" d="M1221 1110h111v111h-111zM1554 1110h111v111h-111zM111 1221h111v111H111zM222 1221h111v111H222zM333 1221h111v111H333z"/>
+    <path fill="#dbdce547" d="M999 1221h111v111H999z"/>
+    <path fill="none" d="M1110 1221h111v111h-111zM1221 1221h111v111h-111zM1332 1221h111v111h-111zM1665 1221h111v111h-111zM222 1332h111v111H222zM666 1332h111v111H666z"/>
+    <path fill="#dbdce516" d="M1332 1332h111v111h-111z"/>
+    <path fill="#dbdce526" d="M1443 1332h111v111h-111z"/>
+    <path fill="none" d="M1554 1332h111v111h-111zM1665 1332h111v111h-111z"/>
+    <path fill="#dbdce52c" d="M1887 1332h111v111h-111z"/>
+  </g>
+  <defs>
+    <radialGradient id="a">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff"/>
+    </radialGradient>
+  </defs>
+</svg>
